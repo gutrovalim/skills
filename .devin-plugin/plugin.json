@@ -1,0 +1,5 @@
+{
+  "name": "gutrovalim-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for designing, reviewing and recovering data models: datasets, tables, graphs, key-value stores and pipelines"
+}

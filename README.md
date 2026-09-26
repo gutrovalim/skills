@@ -18,3 +18,7 @@ These skills push those decisions to the front — what one row means, where the
 | [`data-spec-recover`](skills/data-spec-recover/SKILL.md) | Recovers the as-built spec from code that already exists, with a citation per row. |
 
 `data-modeling` is consulted by the other three. It holds the platform constraints that decide which designs are possible at all, so it is the one to read when a decision looks free but is not.
+
+## Vendored skills
+
+The engineering and productivity skills from [mattpocock/skills](https://github.com/mattpocock/skills) (commit `c55ee46`) are copied unmodified into `skills/`, including `grilling` and `code-review`, which the data skills refer to. They are MIT licensed; see `licenses/mattpocock-skills-LICENSE`.
